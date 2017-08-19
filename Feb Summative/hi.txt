@@ -1,0 +1,175 @@
+Song: Aqualung
+Artist: Jethro Tull
+Category: Classic rock
+Release year: 1971
+Rating(/10): 4
+Song: Children of the Grave
+Artist: Black Sabbath
+Category: Metal
+Release year: 1971
+Rating(/10): 4
+Song: Burn
+Artist: Deep Purple
+Category: Hard rock
+Release year: 1974
+Rating(/10): 2
+Song: Bohemian Rhapsody
+Artist: Queen
+Category: Classic rock
+Release year: 1975
+Rating(/10): 4
+Song: Call Me the Breeze
+Artist: Lynyrd Skynyrd
+Category: Southern rock
+Release year: 1976
+Rating(/10): 6
+Song: Chemical Warfare
+Artist: Slayer
+Category: Metal
+Release year: 1984
+Rating(/10): 7
+Song: Fascination Street
+Artist: The Cure
+Category: Alternative
+Release year: 1989
+Rating(/10): 7
+Song: Been Caught Stealing
+Artist: Jane's Addiction
+Category: Alternative
+Release year: 1990
+Rating(/10): 3
+Song: Burnin' for You
+Artist: Blue Öyster Cult
+Category: Classic rock
+Release year: 1993
+Rating(/10): 6
+Song: Cryin
+Artist: Aerosmith
+Category: Blues rock
+Release year: 1993
+Rating(/10): 8
+Song: Deadfall
+Artist: Snot
+Category: Punk
+Release year: 1997
+Rating(/10): 4
+Song: Bodies
+Artist: Drowning Pool
+Category: Nu metal
+Release year: 2001
+Rating(/10): 5
+Song: Dancing Through Sunday
+Artist: AFI
+Category: Rock
+Release year: 2003
+Rating(/10): 7
+Song: Holiday
+Artist: Grren Day
+Category: Alternative
+Release year: 2004
+Rating(/10): 9
+Song: Bat Country
+Artist: Avenged Sevenfold
+Category: Metal
+Release year: 2005
+Rating(/10): 5
+Song: Dance, Dance
+Artist: Fall Out Boy
+Category: Pop rock
+Release year: 2005
+Rating(/10): 8
+Song: Black Widow of La Porte
+Artist: John 5 featuring Jim Root
+Category: Speed metal
+Release year: 2007
+Rating(/10): 6
+Song: Bleed It Out
+Artist: Linkin Park
+Category: Nu metal
+Release year: 2007
+Rating(/10): 2
+Song: Calling
+Artist: Strung Out
+Category: Modern rock
+Release year: 2007
+Rating(/10): 9
+Song: Feels Like the First Time
+Artist: Foreigner
+Category: Classic rock
+Release year: 2007
+Rating(/10): 6
+Song: The Feel Good Drag
+Artist: Anberlin
+Category: Modern rock
+Release year: 2008
+Rating(/10): 7
+Song: Again
+Artist: Flyleaf
+Category: Modern rock
+Release year: 2009
+Rating(/10): 3
+Song: Bloodlines
+Artist: Dethklok
+Category: Death metal
+Release year: 2009
+Rating(/10): 1
+Song: Red Flag
+Artist: Billy Talent
+Category: Punk
+Release year: 2009
+Rating(/10): 10
+Song: Black Rain
+Artist: Soundgarden
+Category: Grunge
+Release year: 2010
+Rating(/10): 6
+Song: Break Your Heart
+Artist: Taio Cruz
+Category: R&B
+Release year: 2010
+Rating(/10): 9
+Song: Cherry Bomb
+Artist: The Runaways
+Category: Rock
+Release year: 2010
+Rating(/10): 7
+Song: Wavin' Flag
+Artist: K'naan
+Category: Other
+Release year: 2010
+Rating(/10): 7
+Song: F*** you
+Artist: Cee Lo
+Category: Urban
+Release year: 2011
+Rating(/10): 8
+Song: Get Yourself Back Home
+Artist: Gym Class Heroes
+Category: Hip-Hop
+Release year: 2011
+Rating(/10): 10
+Song: Give Me Everything
+Artist: Pitbul,Ne-To & Nayer
+Category: Pop
+Release year: 2011
+Rating(/10): 9
+Song: Hangover
+Artist: Taio Cruz
+Category: Pop
+Release year: 2011
+Rating(/10): 9
+Song: International Love
+Artist: Pitbull & Chirs Brown
+Category: Pop
+Release year: 2011
+Rating(/10): 8
+Song: Just A Dream
+Artist: Nelly
+Category: Pop
+Release year: 2011
+Rating(/10): 10
+Song: Marry You
+Artist: Bruno Mars
+Category: Pop
+Release year: 2011
+Rating(/10): 8

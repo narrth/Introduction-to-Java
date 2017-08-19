@@ -1,0 +1,124 @@
+/*--------------------------------------------------------------------------------------*/
+/*  template.java  -  Description                                                       */
+/*                                                                                      */
+/*--------------------------------------------------------------------------------------*/
+/*  Author:                                                                             */
+/*  Date:                                                                               */
+/*--------------------------------------------------------------------------------------*/
+/*  Input:                                                                              */
+/*  Output:                                                                             */
+/*--------------------------------------------------------------------------------------*/
+
+import java.io.*;
+import java.util.*;
+import java.text.*;
+
+public class Summative
+{
+    static void DisplayCollection (String name, String[] Sinfo) throws IOException
+    {
+	String line = null;
+	int count = 0;
+	BufferedReader reader = new BufferedReader (new FileReader (name + ".txt"));
+	while ((line = reader.readLine ()) != null)
+	{
+	    Sinfo [count] = line;
+	    System.out.println (line);
+	    count++;
+	}
+	reader.close ();
+
+    }
+
+
+    public static void main (String str[]) throws IOException
+    {
+	BufferedReader stdin = new BufferedReader (new InputStreamReader (System.in));
+	DecimalFormat df = new DecimalFormat ("#");
+	final int MAX = 9999;
+	int response, response1;
+	String name, repeat;
+	String[] Sinfo = new String [MAX];
+	//Your program should be able to do the following:
+	//· Open and View the collection
+	//· Add to the collection
+	//· Search by: category, titles, artists
+	//· Sort by: category, titles, artists
+	//· Create a backup of the collection
+	//· Delete a song from the collection
+	//· Allow multiple users to create other databases as well
+	do
+	{
+	    System.out.println ("Are you a returning user: \n[1] yes \n[2] no");
+	    response = Integer.parseInt (stdin.readLine ());
+	    switch (response)
+	    {
+		case 1:
+		    {
+			System.out.println ("Please enter your name into the program");
+			name = stdin.readLine ();
+			System.out.println ("Hello This program will do one of the following: \n1.Open and View the collection\n2.Add to the collection\n3.Search by: category, titles, artists\n4.Sort by: category, titles, artists\n5.Create a backup of the collection\n6.Delete a song from the collection\n7.Allow multiple users to create other databases as well");
+			response1 = Integer.parseInt (stdin.readLine ());
+			switch (response1)
+			{
+			    case 1:
+				{
+				    DisplayCollection (name, Sinfo);
+				    break;
+				}
+			    case 2:
+				{
+
+				    break;
+				}
+			    default:
+				{
+				    System.out.println ("You have done something wrong please try again.");
+				    break;
+				}
+			}
+			break;
+		    }
+		case 2:
+		    {
+			System.out.println ("Please enter your name into the program");
+			name = stdin.readLine ();
+			BufferedWriter writer = new BufferedWriter (new FileWriter (name + ".txt"));
+			System.out.println ("Hello This program will do one of the following: \n1.Open and View the collection\n2.Add to the collection\n3.Search by: category, titles, artists\n4.Sort by: category, titles, artists\n5.Create a backup of the collection\n6.Delete a song from the collection\n7.Allow multiple users to create other databases as well");
+			response1 = Integer.parseInt (stdin.readLine ());
+			switch (response1)
+			{
+			    case 1:
+				{
+				    DisplayCollection (name, Sinfo);
+				    break;
+				}
+			    case 2:
+				{
+
+				    break;
+				}
+			    default:
+				{
+				    System.out.println ("You have done something wrong please try again.");
+				    break;
+				}
+			}
+			break;
+		    }
+		default:
+		    {
+			break;
+		    }
+
+
+	    }
+	    System.out.println ("Would you like to repeat the program(Y/y): ");
+	    repeat = stdin.readLine ();
+	}
+	while (repeat.equals ("Y") || repeat.equals ("y"));
+
+    }
+}
+
+
